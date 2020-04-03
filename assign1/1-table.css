@@ -1,0 +1,22 @@
+body {
+  background: linear-gradient(
+      135deg,
+      rgba(255, 165, 0, 0.7) 60%,
+      rgba(0, 255, 255, 0.9)
+    )
+    fixed;
+  font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 1.1em;
+  color: #343434;
+}
+body {
+  font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 20px;
+  color: #555;
+}
+
+/* Colors used include:
+    - #555;
+    - #006060;
+    - as well as rgba values of the colors above
+*/
