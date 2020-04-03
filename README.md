@@ -1,9 +1,6 @@
-# webdev-exercises
+## Webdev Exercises
 
-
-- Assignment 0 - Setup
-- Assignment 1 - HTML
-- Assignment 2 - CSS
-- Assignment 3 - CSS Layouts and Bootstrap
-- Assignment 4 - JavaScript - DOM Manipulations
-- Assignment 5 - JavaScript 
+- Assignment 1 - HTML and CSS
+- Assignment 2 - Layouts
+- Assignment 3 - JavaScript - DOM Manipulations
+- Assignment 4 - Node and Express
