@@ -1,4 +1,4 @@
-## Setup for Frontend
+## Setup for Class
 
 ### Installation
 
