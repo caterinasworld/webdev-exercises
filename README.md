@@ -7,13 +7,18 @@
 - Portfolio exercise
 
 ### Assignment 2 - Layouts
-- to be posted week #2
+- Flexbox exercise
+- Flexbox exercise
+- CSS Grid exercise
+- CSS Grid exercise
+- Bootstrap Grid exercise
+- Bootstrap Form exercise
 
 ### Assignment 3 - JavaScript and DOM Manipulations
-- to be posted week #3
+- to be posted week #5
 
-### Assignment 4 - Node and Express
-- to be posted week #4
+### Assignment 4 - Node, Express, and Frameworks
+- to be posted week #6
 
 Check D2L or Drive for more details on each assignment
 
