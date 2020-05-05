@@ -15,7 +15,12 @@
 - Bootstrap Form exercise
 
 ### Assignment 3 - JavaScript
-- to be posted week #5
+- Fizzbuzz exercise
+- Reverse exercise
+- Form exercise
+- Events exercise
+- Rest Countries exercise
+- PokeAPI exercise
 
 ### Assignment 4 - Node, Express, Frameworks
 - to be posted week #6
