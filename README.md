@@ -23,7 +23,10 @@
 - PokeAPI exercise
 
 ### Assignment 4 - Node, Express, Frameworks
-- to be posted week #6
+- Form submission
+- Sessions
+- Frameworks
+- Routes
 
 Check D2L or Drive for more details on each assignment
 
