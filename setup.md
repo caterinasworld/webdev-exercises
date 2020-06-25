@@ -30,26 +30,26 @@ Unpacking objects: 100% (8/8), done.
 $ cd webdev-homework/
 
 $ git remote -v
-origin	  https://github.com/caterinasworld/webdev-exercises (fetch)
-origin	  https://github.com/caterinasworld/webdev-exercises (push)
+origin	  https://github.com/caterinasworld/webdev-exercises.git (fetch)
+origin	  https://github.com/caterinasworld/webdev-exercises.git (push)
 
 $ git remote rename origin upstream
 
 $ git remote -v
-upstream	https://github.com/caterinasworld/webdev-exercises (fetch)
-upstream	https://github.com/caterinasworld/webdev-exercises (push)
+upstream	https://github.com/caterinasworld/webdev-exercises.git (fetch)
+upstream	https://github.com/caterinasworld/webdev-exercises.git (push)
 ```
 
 3. Create a __private repo__, add collaborators, that add repo as a remote. 
 
 ```console
-$ git remote add origin git@github.com:student/private-repo-hw.git
+$ git remote add origin https://github.com/student/private-repo-hw.git
 
 $ git remote -v
-origin	  https://github.com/student/private-repo-hw (fetch)
-origin	  https://github.com/student/private-repo-hw (push)
-upstream	hhttps://github.com/caterinasworld/webdev-exercises (fetch)
-upstream	https://github.com/caterinasworld/webdev-exercises (push)
+origin	  https://github.com/student/private-repo-hw.git (fetch)
+origin	  https://github.com/student/private-repo-hw.git  (push)
+upstream	hhttps://github.com/caterinasworld/webdev-exercises.git (fetch)
+upstream	https://github.com/caterinasworld/webdev-exercises.git (push)
 ```
 
 4. Push the files you cloned into your newly created private remote.
