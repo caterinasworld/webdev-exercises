@@ -5,11 +5,13 @@
 1. Install Git: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 
 2. Download VS Code as your code editor: https://code.visualstudio.com/
+
+3. Install some VS Code extensions to get started:
 - Live Server
 - Prettier
 - Git Lens
 
-3. Sign up for the GitHub Student Pack: https://education.github.com/pack
+4. Sign up for the GitHub Student Pack: https://education.github.com/pack
 
 ### Setting up the Homework Repo
 
