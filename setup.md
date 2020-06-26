@@ -40,7 +40,7 @@ upstream	https://github.com/caterinasworld/webdev-exercises.git (fetch)
 upstream	https://github.com/caterinasworld/webdev-exercises.git (push)
 ```
 
-3. Create a __private repo__, add collaborators, that add repo as a remote. 
+3. Create a __private repo__, add collaborators, then add the repo as a remote. 
 
 ```console
 $ git remote add origin https://github.com/student/private-repo-hw.git
