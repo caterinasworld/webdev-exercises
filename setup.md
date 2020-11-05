@@ -1,4 +1,4 @@
-## Setup for Class
+## Setup Instructions
 
 ### Installation
 
@@ -6,12 +6,18 @@
 
 2. Download VS Code as your code editor: https://code.visualstudio.com/
 
-3. Install some VS Code extensions to get started:
-- Live Server
-- Prettier
-- Git Lens
+    - Launch VS Code from the command line: https://code.visualstudio.com/docs/editor/command-line#_launching-from-command-line
+  
+    - Install the following extensions to start with:
+      - Live Server
+      - Prettier
+      - ESLint
+      - Git Lens
+      - Bracket Pair Colorizer
 
-4. Sign up for the GitHub Student Pack: https://education.github.com/pack
+3. Sign up for a GitHub account and the GitHub Student Pack: https://education.github.com/pack
+
+4. Set up SSH keys for GitHub: https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/connecting-to-github-with-ssh
 
 ### Setting up the Homework Repo
 
@@ -43,7 +49,9 @@ upstream	https://github.com/caterinasworld/webdev-exercises.git (push)
 ```
 
 3. Navigate to your account on GitHub and create a __private repo__.
+
 4. Add collaborator(s).
+
 5. Add the GitHub repo that you created as a remote.
 
 ```console
