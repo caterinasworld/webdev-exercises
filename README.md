@@ -19,11 +19,13 @@
 - Rest Countries exercise
 - PokeAPI exercise
 
-### Assignment 3 - Node, Express, Frameworks
-- Form submission exercise
-- Sessions exercise
-- Routes exercise
-- Frameworks exercises
+### Assignment 3 - Node, Express, and Frameworks
+- Node routes exercise
+- Node URL parsing exercise
+- Express form submission exercise
+- Espress sessions exercise
+- Templating engine exercise
+- Frameworks / tutorials
 
 Check D2L or Drive for more details on each assignment
 
