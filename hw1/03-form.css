@@ -1,3 +1,7 @@
 /* css code for exercise 03-form */
 
 /* the colors used in this exercise are gray4, teal, lightteal */
+
+body {
+  background-color: var(--teal);
+}
