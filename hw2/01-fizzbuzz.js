@@ -1,1 +1,3 @@
-// Enter your code here
+function fizzbuzz() {
+  // Enter your code here
+}
