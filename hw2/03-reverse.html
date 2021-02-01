@@ -9,18 +9,23 @@
       type="text/css"
       href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/css/bootstrap.min.css"
     />
-    <script defer src="02-reverse.js"></script>
+    <script defer src="03-reverse.js"></script>
   </head>
   <body class="bg-dark">
-    <form class="bg-light border rounded w-50 mx-auto mt-5 p-3">
+    <main class="bg-light border rounded w-50 mx-auto mt-5 p-3">
       <h2 class="mt-2 mb-4">Reverse</h2>
       <div class="form-group w-50">
         <label for="input">Enter an 8-digit number: </label>
         <input type="number" class="form-control" id="input" required />
       </div>
       <div class="form-group mt-4">
-        <input type="submit" class="btn btn-info" value="Reverse" />
+        <input
+          type="submit"
+          class="btn btn-info"
+          value="Reverse"
+          id="reverse"
+        />
       </div>
-    </form>
+    </main>
   </body>
 </html>
