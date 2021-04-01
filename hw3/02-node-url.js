@@ -25,6 +25,7 @@ const server = http.createServer((req, res) => {
 
     res.writeHead(200, { 'Content-Type': 'text/html' });
     res.write(`<h1>Exercise 02</h1>`);
+
     res.write(`<ul> ${routeResults} </ul>`);
   }
 
