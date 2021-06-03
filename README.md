@@ -16,7 +16,26 @@ The exercises in this assignment are:
 
 ## Homework 2 - JavaScript, Ajax, and APIs
 
+The exercises in this assignment are:
+- Fizzbuzz exercise
+- Change exercise
+- Reverse exercise
+- Regex exercise
+- Form exercise
+- Events exercise
+- Rest Countries exercise
+- PokeAPI exercise
+
 ## Homework 3 - Node.js, Express, and Templating Engines
 
+The exercises in this assignment are:
+- Node Routes exercise
+- Node URL Parsing exercise
+- Express Form exercise
+- Express Sessions exercise
+- Templating exercise
+
 ## Homework 4 - Frameworks
+
+Check D2L for more information on each assignemnt.
 
